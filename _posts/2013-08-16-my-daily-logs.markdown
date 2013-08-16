@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "My Daily Logs!"
+title:  "Hello Daily Logs!"
 date:   2013-08-16 11:13:09
 categories: meow
 ---
 
-To track my daily progress, I use [Jekyll][jekyll] to record everything I've done every day.
-Hello My Daily Logs! :D
+To track my progress, I use [Jekyll][jekyll] to record everything I've done every day. Hello Daily Logs! :D
 
 I still use [Padlet][padlet] to organize my raw idea.
 
