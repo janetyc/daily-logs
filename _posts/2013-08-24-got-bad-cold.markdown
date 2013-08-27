@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Got bad cold >__<"
+title:  "Got bad cold >.<"
 date:   2013-08-24 15:15:15
 categories: meow
 ---
