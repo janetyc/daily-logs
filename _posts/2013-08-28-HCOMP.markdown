@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Accepted!!!!"
+title:  "Go a paper accepted in HCOMP 2013!"
 date:   2013-08-28 23:23:23
 categories: reserach
 ---
