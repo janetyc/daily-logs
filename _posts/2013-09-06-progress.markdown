@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Keep writing with code"
+date:   2013-09-06 22:22:22
+categories: reserach
+---
+Today I spent much time to organize the code repository and documentation. It's first time for me to write detailed document with programming. I record each step including environment setup, external libraries linking and installing commands. Even though it took much time and effort, I still think it's a crucial improvement of my working style. Keep doing it.
+
+On the way home, something had came into my mind. Why was no any progress on my research this week? I recalled my memory and found that there were so many stuffs in M-ITI. Also, I spent some time to prepare the camera-ready copy for HCOMP conference. I originally thought that it was not a hard job, but still spent me a lot of time. :( I had no progress for one week. How terrible it was!!! I need to work so hard to catch up the delay. Go fighting!!!
+
+
+`@janetyc :-)`
+
