@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cat movie"
+date:   2013-09-20 21:32:32
+categories: reserach
+---
+Monchu, Mao and I had a meeting yesterday. We discussed our eye tracking project. We tried to submit it at Interativity track in the CHI2014 conference. After brainstorming, we finally decided our scenario for demo video. We plan to create a movie about a story beyond gaze-based interaction. First, a person scrolled the webpage using his gaze. Suddenly, his phone rang and he switched attention to the phone. There was some little cats which were shaking his phone. But, they disappeared when the person look at his phone. In the movie, we would like to use an interesting story to present our technology. Also, we tried to demo a novel interation for eye tracking technology. The movie would show that we can use eye tracking to recognize the physical objects in real world. Combined with 3D project mapping, we can bring others into our imagine in augmented world. 
+
+Oh~ Today we ordered our Braguinha with music grandfather. I thing that the hand-made Braguinha would be a very special intrument for me. Because it will be full of our memory with music grandfather in Maderia.
+
+`@janetyc :-)`
+
