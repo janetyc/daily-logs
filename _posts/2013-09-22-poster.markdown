@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Poster design"
+date:   2013-09-22 23:11:11
+categories: design
+---
+Today I created three posters for invention exhibition. We tried a new skill leared from Mao to generate a product figure using color blocks. First, I use a real image in front of all layers. By adjusting alpha value, I can mimic the countur of object layer by layer. It's a very interesting prarice, but spent much time and effort. My eyes felt tired and needed to take a rest. This week will be a hard-working week. We need to finish a demo video for CHI interactivity. There are too many things to do next two weeks. Hope we can conquer all of them.
+
+`@janetyc :-/`
+
