@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Pure Data"
+date:   2013-10-14 10:10:10
+categories: research
+---
+
+Pure data is a visual programming language for creating interactive computer music. In order to complete our color eye gaze intrument, we use Pure Data to create our sound. I'm not familiar with the language, so I spent much time to understand the grammar. On the Internet, I found a great website which includes a lot of resources of Pure Data. I can directly modify the example code and integrate it into our program. Those inspiring examples motivate me to learn deeply of interactive computer music. It's so attractive when I create my first sound. :) I'd like to do more about it.
+
+`@janetyc :-)`
+
