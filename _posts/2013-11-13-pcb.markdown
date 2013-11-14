@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "PCB"
+date:   2013-11-13 23:23:23
+categories: reserach
+---
+
+Today I tried my first print circuit board a.k.a PCB in UMa. Phlips taught us how to print circuit board using their advance device. After 3 hours working, we finally finished two circuits board and enormous wires. It was a very interesting experience I had never had before. One week left to go home, we should complete our final project here next Monday. A small concert will be held in next Monday and we'll play mini guitar and erhu with flap clocks. Go fighting! Keeping make a great memory here. :)
+
+
+`@janetyc :-)`
+
