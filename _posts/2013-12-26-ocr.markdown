@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "OCR in iPhone"
+date:   2013-12-26 23:10:10
+categories: digital art
+---
+To accomplish the AR furniture app, I should do optical character recognition a.k.a OCR at first. For OCR, I used ofxTesseract to achieve my goal. After trying several libraries, I reconstruct the iOS openframeworks video graber example with ofxTesseract. When backward camera detect the text in real world, the program will predict the possible words and show them on the screen. The first trial is good and I'll move on to another stage. :)
+
+
+`@janetyc :-)`
+
